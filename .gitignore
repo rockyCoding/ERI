@@ -1,0 +1,6 @@
+# excluding .idea directory from repo
+**/.idea
+
+# excluding out directory from repo
+**/out
+
